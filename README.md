@@ -31,9 +31,6 @@
 ☁️ I've keen interest in cloud computing. So,I'm learning AWS
 
 
-💬 Ask me about AWS, react, react-native, nodejs, mongoDB
-
-
 🔆 Special quality:
 🔰 Problem Solving
 🔰 Tech Enthusiasts
